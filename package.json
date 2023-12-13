@@ -144,6 +144,6 @@
     "webpack": "^5.89.0"
   },
   "stackblitz": {
-    "startCommand": "pnpm build && pnpm play"
+    "startCommand": "pnpm dev && pnpm play"
   }
 }
