@@ -142,5 +142,8 @@
     "vite": "^5.0.4",
     "vitest": "^0.34.6",
     "webpack": "^5.89.0"
+  },
+  "stackblitz": {
+    "startCommand": "pnpm dev && pnpm play"
   }
 }
